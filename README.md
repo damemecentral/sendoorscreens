@@ -1,4 +1,4 @@
-# 🚀 Crypto Launch Orchestrator
+# 🐱🚀 Sendoor
 
 A comprehensive web application for Solana token operations, providing advanced tools for token deployment, trading, and market management.
 
